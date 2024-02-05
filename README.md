@@ -10,3 +10,10 @@ this project was done by analysing the outcome covid-19 has globally. how it inc
 2. Pandas
 3. Numpy
    
+# Data cleaning and preparation
+----
+python was used to for my data cleaning
+
+# Data source
+----
+the data was gotten from https://ourworldindata.org/covid-cases
