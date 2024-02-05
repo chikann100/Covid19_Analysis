@@ -16,4 +16,14 @@ python was used to for my data cleaning
 
 # Data source
 ----
-the data was gotten from https://ourworldindata.org/covid-cases
+the data was gotten from 
+[our world in data](https://ourworldindata.org/covid-cases)
+
+# Review
+----
+1. chart showing daily trend on the spread of covid_19
+2. chart showing details on spready of covid_19 globally
+
+# credit
+the visualization i used for this project was done with flourish
+[view visualization](https://public.flourish.studio/visualisation/16587736/)
